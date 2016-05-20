@@ -1,0 +1,6 @@
+Assam,Dispur
+Bihar,Patna
+Goa,Panaji
+Karnataka,Bengaluru
+MadhyaPradesh,Bhopal
+Rajasthan,Jaipur
